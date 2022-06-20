@@ -1,0 +1,20 @@
+{
+  "name": "mediasoft",
+  "version": "1.0.0",
+  "description": "learning project on course meadiasoft",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "mediasoft"
+  },
+  "author": "azubakin",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^5.73.0",
+    "webpack-cli": "^4.10.0",
+    "webpack-dev-server": "^4.9.2"
+  }
+}
